@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "Quem é essa Maravilhosa?",
+        "descricao": "Ela é uma mulher de estatura pequena, mas com uma presença que transcende qualquer medida física. Com apenas 1,54 metros de altura, ela irradia uma aura de independência e inteligência que conquista a todos ao seu redor. Sua mente afiada é uma ferramenta poderosa, capaz de desvendar os mais complexos enigmas e solucionar os mais difíceis desafios. Seu domínio da comunicação é notável, sendo capaz de expressar suas ideias de forma clara e envolvente, cativando a atenção de quem a ouve. Mas não é apenas sua inteligência que a torna especial. Ela tem um amor pelos doces que é tão doce quanto o próprio açúcar. Os sorrisos que ela distribui são como guloseimas para a alma, trazendo alegria e calor para todos ao seu redor. Sua gentileza é como um abraço reconfortante em um dia frio, acolhendo aqueles que estão próximos a ela com carinho e compreensão. Ela se preocupa profundamente com as pessoas que ama, sempre pronta para oferecer apoio e apoio incondicional. Apesar de sua estatura modesta, ela possui uma grande presença que ilumina qualquer ambiente em que ela entra. Uma mulher independente, inteligente e gentil, cujo sorriso é capaz de encantar a todos que têm o privilégio de conhecê-la.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "Curiosidades sobre ela:",
+        "descricao": "Apaixonada por filmes de romance, encontrando inspiração nas histórias de amor e conexão humana. Amante de viagens, explorando novos lugares e culturas, alimentando sua curiosidade e sede de aventura. Valoriza profundamente o tempo passado com as pessoas que ama, encontrando alegria e conforto em sua companhia.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "Quais suas comidas preferidas?",
+        "descricao": "Famoso arroz com pequi da Vo, como também caldo de mandioca com gostinho de infancia!",
+        "disable": false,
+        "selected": false
+    }
+]

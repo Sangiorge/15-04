@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #b50dbb;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f5f103;
+    color: #d9e411;
+    padding: 50px;
+    text-align: center;
+}
+
+header img {
+    max-width: 650px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.filter-item {
+    margin-bottom: 10px;
+}
+
+#topic-select,
+#description-input {
+    margin: 15px auto;
+    padding: 8px;
+    width: 100%;
+    border: 3px solid #fc08659c;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#description-input {
+    height: 180px;
+}
